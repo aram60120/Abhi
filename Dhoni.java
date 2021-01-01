@@ -1,0 +1,4 @@
+class Dhoni
+{
+	String name;
+}
